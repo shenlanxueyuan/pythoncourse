@@ -1,2 +1,2 @@
-# pythoncourse
-python实战教学
+# Python基础入门与实践
+- Python基础入门-课程二
